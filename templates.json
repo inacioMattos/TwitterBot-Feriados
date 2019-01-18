@@ -1,0 +1,43 @@
+[
+	{
+		"tempo": 0,
+		"emojis": ["🎉", "😜", "🤘", "🙌"],
+		"frases": ["O feriado é hoje! $EMOJI$", 
+				  "É hoje o feriado! $EMOJI$", "É hoje! $EMOJI$",
+				  "Finalmente chegou o dia do feriado! $EMOJI"],
+		"piada": []
+	},
+	{
+		"tempo": 1,
+		"emojis": ["🎉", "😜", "🤘", "🙌"],
+		"frases": ["O feriado é amanhã! $EMOJI$", 
+				  "É amanhã o feriado! $EMOJI$", "É hoje! $EMOJI$",
+				  "Um diazinho para o feriado! $EMOJI", 
+				  "Hoje você pode fazer a festa porque amanhã é feriado! $EMOJI$"],
+		"piada": []
+	},
+	{
+		"tempo": 7,
+		"emojis": ["😏", "😎", "😝", "😆", "😗", "😉"],
+		"frases": ["Faltam $DIAS$ dias para o próximo feriado. $EMOJI$", 
+				   "$DIAS$ dias para o próximo feriado. $EMOJI$"],
+		"piada": []
+	},
+	{
+		"tempo": 14,
+		"emojis": ["😒","🙁","😐","😶","😑"],
+		"frases": ["Faltam $DIAS$ dias para o próximo feriado. $EMOJI$", 
+				   "$DIAS$ dias para o próximo feriado. $EMOJI$"],
+		"piada": []
+	},
+	{
+		"tempo": 9999,
+		"emojis": ["🙄","😥","😩","😣","😭","💩","😡","👎","🙃","😤","😠","😰","😿","😪",
+				   "😓","😳","🖕","😞","🤧"],
+		"frases": ["Faltam $DIAS$ dias para o próximo feriado. $EMOJI$", 
+				   "$DIAS$ dias para o próximo feriado. $EMOJI$",
+				   "Falta muito para o próximo feriado ainda ($DIAS$ dias). $EMOJI$"],
+		"piada": []
+	}
+]
+

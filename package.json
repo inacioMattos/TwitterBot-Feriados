@@ -1,0 +1,16 @@
+{
+  "name": "twitter_bot_test",
+  "version": "1.0.0",
+  "description": "my first time using twit!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inacio mattos",
+  "license": "ISC",
+  "dependencies": {
+    "add-subtract-date": "^1.0.13",
+    "date-diff": "^0.2.0",
+    "twit": "^2.2.10"
+  }
+}

@@ -1,0 +1,8 @@
+[
+	{
+		"tempo": 0,
+		"emojis": ["🎉", "😜", "🤘", "🙌"],
+		"frases": ["O feriado é hoje! $EMOJI$", 
+				  "É hoje o feriado! $EMOJI$", "É hoje! $EMOJI$", ]
+	}
+]
